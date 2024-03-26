@@ -3,7 +3,7 @@
 This is a simple portfolio website showcasing my projects and skills. It's built using HTML, CSS, and JavaScript.
 
 ## Usage
-- Demo: []
+- View: [https://shivastoic.github.io/Portfolio/]
 
 ## Features
 

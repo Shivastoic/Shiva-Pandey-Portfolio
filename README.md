@@ -20,7 +20,8 @@ This is a simple portfolio website showcasing my projects and skills. It's built
 
 
 ## Screenshot
-- ![image](https://github.com/Shivastoic/My-Portfolio/assets/107467698/cba64dd9-6922-4394-b755-518804d8327a)
+- ![image](https://github.com/Shivastoic/Portfolio/assets/107467698/e57edbea-ac41-4b67-94d4-c9c98101ae74)
+
 
 
 
